@@ -22,6 +22,7 @@ print((a+b+c)/3)
 
 '''Escribe un programa que haga lo siguiente:
 
+
 Define una variable llamada segundos_totales, con un número entero que represente una cantidad de segundos (por ejemplo, segundos_totales = 7384).
 
 Convierte este número de segundos en:
@@ -32,7 +33,7 @@ Segundos restantes.
 Imprime el resultado en el formato:
 "7384 segundos son equivalentes a 2 horas, 3 minutos y 4 segundos."'''
 
-segundos_totales=7777777
+segundos_totales=7384
 horas=segundos_totales//3600
 
 minutos_restantes=(segundos_totales % 3600)//60
