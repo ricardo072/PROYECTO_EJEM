@@ -41,4 +41,3 @@ segundos_restantes=segundos_totales%60
 
 
 print(segundos_totales,' segundos son equivalentes a ',horas, 'horas', minutos_restantes,' minutos con',segundos_restantes,'segundos')
-
